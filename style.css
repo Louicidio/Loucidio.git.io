@@ -1,0 +1,138 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+    body{
+    font-size: 100%;
+    background: linear-gradient(68deg, #191004 50%, #ff6a00dd 50%);
+    background-repeat: repeat;
+
+
+    }
+    .cabecalho{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        padding: 20px;
+
+    }
+    .logocs{
+        height: 120px;
+    }
+    .cabecalhomenu{
+        display: flex;
+        gap: 32px ;
+    }
+    .anc{
+        font-size: 20px;
+        font-weight: 400;
+        font-family: 'Roboto', sans-serif;
+    }
+    .conteudo{
+        border-top: ;
+        
+    }
+    .conteudoprinci{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        padding: 100px;
+    }
+    .conteudoescrito{
+        display: flex;
+        flex-direction:column;
+        gap: 24px;
+    }
+    .h1{
+        color: #ff6a00dd;
+        font-weight: 400;
+        font-size: 38px;
+        font-family: 'Roboto', sans-serif;
+        font-style: italic;
+    }
+    .h2{
+        color: white;
+        font-weight: 400;
+        font-size: 24px;
+        font-family: 'Roboto', sans-serif;
+        
+    }
+    .botao{
+        background-color: rgb(255, 102, 0);
+        width: 180px;
+        height: 40px;
+        align-self: center;
+        border: none;
+        border-radius: 20px;
+        color: black;
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;
+        
+
+    }
+    .image{
+        height: 430px;
+        
+    }
+    .conteudo2{
+        text-align: center;
+    }
+    .h3{
+        font-size: 40px;
+        color: rgb(253, 101, 0);
+        font-family: 'Roboto', sans-serif;
+    }
+    .conteudop{
+        font-size: 20px;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+    }
+    .video{
+        
+        display: flex;
+        justify-content: center;
+        padding-bottom: 50px;
+    }
+    .sex{
+        color: black;
+    
+    }
+    .sec{
+        color: rgb(253, 101, 0);
+    
+    }
+    .chart{
+        background-color: rgba(22, 21, 21, 0.865);
+        width: 180px;
+        height: 40px;
+        align-self: center;
+        border: none;
+        border-radius: 5px;
+        color: rgb(253, 101, 0);
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;
+
+    }
+    .video2{
+        
+        display: flex;
+        
+        padding-bottom: 50px;
+
+    }
+    .sec2{
+        color: black;
+    }
+    
+    .h31{
+        color: black;
+    }
+    .char1{
+        color: rgb(253, 101, 0);
+    }
